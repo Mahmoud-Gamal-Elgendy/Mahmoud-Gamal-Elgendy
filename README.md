@@ -69,8 +69,6 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/>
   <br/>
-  <img src="https://www.bing.com/ck/a?!&&p=ca84760d0bd5298d1f82a06113e962b50f38a5a58b756821bbf7848189808ae7JmltdHM9MTc2NDM3NDQwMA&ptn=3&ver=2&hsh=4&fclid=23853bc1-d361-6287-1208-2f9dd2756382&u=a1L2ltYWdlcy9zZWFyY2g_cT1leGNlbCtsb2dvK3N2ZyZpZD1DOERCNTIxNzA5NDhBNEQ2QTg2NjYxNUE1M0QwRjVDQzRFNjQ5OEE4JkZPUk09SUFDRklS&ntb=1" height="35"/>
-</div>
 
 ---
 

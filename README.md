@@ -1,95 +1,106 @@
-# 💼 Mahmoud Youssef  
-**Applied Computer Science Master’s Student | Machine Learning & Synthetic Data | Data Scientist**
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-📍 Wrocław, Poland  
-📧 **MahmoudGamalfl8@outlook.com**   
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-youssef-4650021a0/) • [GitHub](https://github.com/Mahmoud-Gamal-Elgendy/) • [Portfolio](https://www.datacamp.com/portfolio/mahmoudgamalfl8)
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-youssef-4650021a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Mahmoud-Gamal-Elgendy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/mahmoudgamalfl8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+</div>
 
-## 🚀 About Me
+###
 
-I’m a Master’s student in **Applied Computer Science** at **Wrocław University of Science and Technology**, currently researching:
+<h1 align="center">Hey there 👋 I'm Mahmoud</h1>
 
-- Synthetic Data Generation  
-- Privacy-Preserving Machine Learning  
-- AI for Healthcare  
+###
 
-My thesis focuses on **privacy-preserving synthetic data generation** for pattern classification—building models that protect user confidentiality while maintaining high accuracy and explainability.
+<h3 align="left">👨‍💻 About Me</h3>
 
-I previously worked as a **Data Analyst** at Advanced Pipeline Services LLC in Abu Dhabi, where I built analytics tools, automated workflows, designed dashboards, and managed secure database systems.
+###
 
----
+<p align="left">
+I'm a Master's student in <strong>Applied Computer Science</strong> at Wrocław University of Science and Technology, specializing in:<br><br>
 
-## 🧠 Research Interests
+- 🔐 Privacy-Preserving Machine Learning  
+- 🧪 Synthetic Data Generation  
+- 🏥 AI for Healthcare  
+- 📊 Data Analysis & BI  
 
-- Machine Learning & Data Efficiency  
-- Privacy-Preserving AI  
-- Synthetic Data Generation  
-- AI for Healthcare Applications  
-- Causal Inference & Simulation  
+I previously worked as a <strong>Data Analyst</strong> in Abu Dhabi, where I built dashboards, automated workflows, and developed secure database systems.  
+<br><br>
 
----
+- 🔭 I’m currently working on: <strong>My thesis on privacy-preserving synthetic data for classification tasks</strong>  
+- 📚 I'm currently learning: <strong>Advanced ML, model explainability, and ML engineering</strong>  
+- ⚡ In my free time: I explore AI research papers, build ML mini-projects, and study German/Polish  
+</p>
 
-## 🛠️ Skills
+###
 
-### **Programming**
-- Python  
-- C#
+<h3 align="left">🛠 Languages & Tools</h3>
 
-### **Machine Learning & Data**
-- Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+###
 
-### **Business Intelligence**
-- Power BI, DAX, Excel
+<div align="left">
 
-### **Databases**
-- SQL Server, MySQL
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
 
-### **Mathematics & CS Fundamentals**
-- Statistics, Linear Algebra, Algorithms, Data Structures, OOP
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
 
-### **Languages**
-- 🇬🇧 **English** — Fluent  
-- 🇩🇪 **German** — Conversational  
-- 🇫🇷 **French** — Conversational  
-- 🇵🇱 **Polish** — Basic  
+  <!-- Numpy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
 
----
+  <!-- Scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="sklearn logo" />
+  <img width="12" />
 
-## 🎓 Education
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
 
-### **Master’s in Applied Computer Science**  
-*Wrocław University of Science and Technology (Mar 2025 – Jul 2026)*  
-**Thesis:** Privacy-Preserving Synthetic Data Generation for Pattern Classification Tasks
+  <!-- Seaborn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo" />
+  <img width="12" />
 
-### **Bachelor’s in Computer Science**  
-*Damietta University (2018 – 2022)*
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
 
----
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img width="12" />
 
-## 💼 Professional Experience
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo" />
+  <img width="12" />
 
-### **Data Analyst — Advanced Pipeline Services LLC**  
-*Mar 2023 – Jul 2024 | Abu Dhabi, UAE*
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
 
-- Developed Power BI dashboards to enhance decision-making.  
-- Automated data workflows using Python (Pandas, NumPy).  
-- Managed secure databases with role-based access and expiry alerts.  
-- Combined Python and Power BI to deliver strategic insights.  
-- Built a multi-camera panorama playback program for operations.
+</div>
 
----
+###
 
-## ✨ What I’m Working On
+<h3 align="left">🔥 My Stats</h3>
 
-- Master’s thesis on **synthetic data & privacy-preserving ML**  
-- Exploring **AI in healthcare and simulation modeling**  
-- Growing experience in **Machine Learning Engineering**
+###
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Gamal-Elgendy&theme=tokyonight" height="160" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Gamal-Elgendy&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
+</div>
 
-## 🤝 Let’s Connect
-
-I’m open to collaborating on machine learning, synthetic data, and AI-driven analytics projects.  
-Feel free to reach out anytime!
+###

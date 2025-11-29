@@ -1,5 +1,5 @@
 # 💼 Mahmoud Youssef  
-**Applied Computer Science Master’s Student | Machine Learning & Synthetic Data | Data Analyst**
+**Applied Computer Science Master’s Student | Machine Learning & Synthetic Data | Data Scientist**
 
 📍 Wrocław, Poland  
 📧 **MahmoudGamalfl8@outlook.com**  

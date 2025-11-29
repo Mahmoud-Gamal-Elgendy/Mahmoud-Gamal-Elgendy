@@ -24,65 +24,74 @@
 
 ## 👨‍💻 About Me
 
-I'm a Master's student in **Applied Computer Science** at Wrocław University of Science and Technology**, specializing in:
+I'm a Master's student in **Applied Computer Science** at **Wrocław University of Science and Technology**, specializing in:
 
 - 🔐 Privacy-Preserving Machine Learning  
 - 🧪 Synthetic Data Generation  
 - 🏥 AI for Healthcare  
 - 📊 Data Analysis & BI  
 
-Previously, I worked as a **Data Analyst** in Abu Dhabi, building dashboards, automating workflows, and developing secure database systems.
+Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, automating workflows, and improving data-driven operations.
 
-- 🔭 Currently working on: **My thesis on privacy-preserving synthetic data for classification tasks**  
-- 📚 Currently learning: **Advanced ML, MLE concepts, explainability techniques**  
-- ⚡ Free time: Research papers, ML side projects, learning German/Polish  
+- 🔭 Currently working on: **Synthetic data generation thesis**  
+- 📚 Currently learning: **Advanced ML, Explainability, MLE**  
+- ⚡ Free time: ML projects, research papers, German/Polish  
 
 ---
 
-## 🛠 Languages & Tools
+# 🧠 Technical Skills
 
+### **👨‍💻 Programming**
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/> Python  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/> C#
+</div>
 
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
+---
 
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img width="12"/>
+### **🤖 Machine Learning Libraries**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/> Pandas  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/> NumPy  
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/> Scikit-learn  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/> Matplotlib  
+  <br/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35"/> Seaborn
+</div>
 
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12"/>
+---
 
-  <!-- Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img width="12"/>
+### **📊 Business Intelligence**
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/> Power BI  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="35"/> Excel / DAX
+</div>
 
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img width="12"/>
+---
 
-  <!-- Seaborn (no official icon, using alt icon) -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/>
-  <img width="12"/>
+### **🗄️ Databases**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"/> MySQL  
+  <br/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/> SQL Server
+</div>
 
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"/>
-  <img width="12"/>
+---
 
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-  <img width="12"/>
-
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="12"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-
+### **🧮 Mathematics & CS Fundamentals**
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/3062/3062366.png" height="35"/> Statistics  
+  <br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1508/1508881.png" height="35"/> Linear Algebra  
+  <br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2345/2345335.png" height="35"/> Algorithms & Data Structures  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/> OOP Concepts
 </div>
 
 ---
@@ -99,16 +108,13 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi, building dashboards, au
 # 🎓 Education
 
 ### 🎓 **Master’s in Applied Computer Science**  
-**Wrocław University of Science and Technology** (2025–2026)  
-📌 Thesis: *Privacy-Preserving Synthetic Data Generation for Pattern Classification Tasks*  
-- Developing synthetic tabular data methods  
-- Evaluating privacy metrics  
-- Comparing models with PATE-GAN & PrivSyn  
+**Wrocław University of Science and Technology (2025–2026)**  
+📌 Thesis: *Privacy-Preserving Synthetic Data Generation for Pattern Classification Tasks*
 
 ---
 
 ### 🎓 **Bachelor’s in Computer Science**  
-**Damietta University** (2018–2022)
+**Damietta University (2018–2022)**
 
 ---
 
@@ -117,50 +123,32 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi, building dashboards, au
 ### **Data Analyst — Advanced Pipeline Services LLC**  
 📍 Abu Dhabi, UAE (Mar 2023 – Jul 2024)
 
-- Built Power BI dashboards for strategic decision-making  
-- Automated workflows using Python (Pandas & NumPy)  
-- Designed and maintained secure database systems  
-- Developed a multi-camera panorama playback program  
-- Improved operational efficiency using data-driven tools  
+- Built Power BI dashboards for leadership insights  
+- Automated analysis workflows using Python  
+- Designed secure database systems  
+- Developed multi-camera panorama playback software  
+- Improved operations through analytics  
 
 ---
 
 # 🔬 Research Interests
 
-- Machine Learning & Data Efficiency  
 - Privacy-Preserving AI  
-- Synthetic Data Generation  
+- Synthetic Data  
 - AI for Healthcare  
-- Causal Inference & Simulation  
+- Causal Inference  
+- Data Efficiency in ML  
+
+---
+## ✨ What I’m Working On
+
+- Master’s thesis on **synthetic data & privacy-preserving ML**  
+- Exploring **AI in healthcare and simulation modeling**  
+- Growing experience in **Machine Learning Engineering**
 
 ---
 
-# 🧠 Technical Skills
+## 🤝 Let’s Connect
 
-### **Programming:** Python, C#  
-### **ML Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-### **BI Tools:** Power BI, DAX, Excel  
-### **Databases:** SQL Server, MySQL  
-### **Math & CS:** Statistics, Linear Algebra, Algorithms, Data Structures, OOP  
-
----
-
-# 📂 Projects
-
-### 📊 **Internet Speed Prediction**  
-➡ https://github.com/Mahmoud-Gamal-Elgendy/Internet-Speed-Prediction-Report  
-
-### 🛒 **Online Shopping Logs Analysis**  
-➡ https://github.com/Mahmoud-Gamal-Elgendy/Analysis-of-Online-Shopping-Process-and-Event-Logs  
-
-### 🧮 **E-Commerce Customer Behavior Analysis**  
-➡ https://github.com/Mahmoud-Gamal-Elgendy/E-Commerce-Customer-Behavior-Engagement-Analysis  
-
-### 📉 **Customer Churn Dashboard (Power BI)**  
-➡ https://github.com/Mahmoud-Gamal-Elgendy/Power-BI-Projects/blob/main/Analyzing%20Customer%20Churn%20Dashboard.pdf  
-
-### 🛍️ **Sales Performance Dashboard (Power BI)**  
-➡ https://github.com/Mahmoud-Gamal-Elgendy/Power-BI-Projects/blob/main/Sales%20Dashboard.pdf  
-
----
-
+I’m open to collaborating on machine learning, synthetic data, and AI-driven analytics projects.  
+Feel free to reach out anytime!

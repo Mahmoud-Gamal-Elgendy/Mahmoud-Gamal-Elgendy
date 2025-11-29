@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Master's student in **Applied Computer Science** at **Wrocław University of Science and Technology**, specializing in:
 
@@ -39,9 +39,9 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
 
 ---
 
-# 🧠 Technical Skills
+# Technical Skills
 
-### **👨‍💻 Programming**
+### **Programming**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>  
   <br/>
@@ -50,7 +50,7 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
 
 ---
 
-### **🤖 Machine Learning Libraries**
+### **Machine Learning Libraries**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>  
   <br/>
@@ -65,14 +65,14 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
 
 ---
 
-### **📊 Business Intelligence**
+### **Business Intelligence**
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/>
   <br/>
 
 ---
 
-### **🗄️ Databases**
+### **Databases**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"/>  
   <br/>

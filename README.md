@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Mahmoud</h1>
+<h1 align="center">Hey there 👋 I'm Mahmoud Youssef</h1>
 
 ---
 
@@ -43,42 +43,42 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
 
 ### **👨‍💻 Programming**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/> Python  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>  
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/> C#
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
 </div>
 
 ---
 
 ### **🤖 Machine Learning Libraries**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/> Pandas  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>  
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/> NumPy  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>  
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/> Scikit-learn  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/>  
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/> Matplotlib  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>  
   <br/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35"/> Seaborn
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35"/>
 </div>
 
 ---
 
 ### **📊 Business Intelligence**
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/> Power BI  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35"/>
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="35"/> Excel / DAX
+  <img src="https://www.bing.com/ck/a?!&&p=ca84760d0bd5298d1f82a06113e962b50f38a5a58b756821bbf7848189808ae7JmltdHM9MTc2NDM3NDQwMA&ptn=3&ver=2&hsh=4&fclid=23853bc1-d361-6287-1208-2f9dd2756382&u=a1L2ltYWdlcy9zZWFyY2g_cT1leGNlbCtsb2dvK3N2ZyZpZD1DOERCNTIxNzA5NDhBNEQ2QTg2NjYxNUE1M0QwRjVDQzRFNjQ5OEE4JkZPUk09SUFDRklS&ntb=1" height="35"/>
 </div>
 
 ---
 
 ### **🗄️ Databases**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"/> MySQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"/>  
   <br/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/> SQL Server
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
 </div>
 
 ---
@@ -92,15 +92,6 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
   <img src="https://cdn-icons-png.flaticon.com/512/2345/2345335.png" height="35"/> Algorithms & Data Structures  
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/> OOP Concepts
-</div>
-
----
-
-## 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Gamal-Elgendy&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Gamal-Elgendy&show_icons=true&theme=tokyonight" height="160"/>
 </div>
 
 ---

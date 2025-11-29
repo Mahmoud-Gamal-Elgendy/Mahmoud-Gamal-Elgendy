@@ -2,8 +2,7 @@
 **Applied Computer Science Master’s Student | Machine Learning & Synthetic Data | Data Scientist**
 
 📍 Wrocław, Poland  
-📧 **MahmoudGamalfl8@outlook.com**  
-📞 **+48 453 537 014**  
+📧 **MahmoudGamalfl8@outlook.com**   
 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-youssef-4650021a0/) • [GitHub](https://github.com/Mahmoud-Gamal-Elgendy/) • [Portfolio](https://www.datacamp.com/portfolio/mahmoudgamalfl8)
 
 ---
@@ -79,28 +78,6 @@ I previously worked as a **Data Analyst** at Advanced Pipeline Services LLC in A
 - Managed secure databases with role-based access and expiry alerts.  
 - Combined Python and Power BI to deliver strategic insights.  
 - Built a multi-camera panorama playback program for operations.
-
----
-
-## 📂 Projects
-
-### **📊 Internet Speed Prediction**  
-Tools: Pandas, NumPy, Scikit-learn, Matplotlib  
-🔗 https://github.com/Mahmoud-Gamal-Elgendy/Internet-Speed-Prediction-Report
-
-### **🛒 Online Shopping Logs Analysis**  
-Tools: Chrome DevTools, Pandas, Matplotlib, Seaborn, Playwright  
-🔗 https://github.com/Mahmoud-Gamal-Elgendy/Analysis-of-Online-Shopping-Process-and-Event-Logs
-
-### **🧮 E-Commerce Customer Behavior Analysis**  
-Tools: Pandas, Seaborn, Scikit-learn, Google Analytics  
-🔗 https://github.com/Mahmoud-Gamal-Elgendy/E-Commerce-Customer-Behavior-Engagement-Analysis
-
-### **📉 Customer Churn Dashboard (Power BI)**  
-🔗 https://github.com/Mahmoud-Gamal-Elgendy/Power-BI-Projects/blob/main/Analyzing%20Customer%20Churn%20Dashboard.pdf
-
-### **🛍️ Sales Performance Dashboard (Power BI)**  
-🔗 https://github.com/Mahmoud-Gamal-Elgendy/Power-BI-Projects/blob/main/Sales%20Dashboard.pdf
 
 ---
 

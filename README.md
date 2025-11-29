@@ -79,44 +79,30 @@ Previously, I worked as a **Data Analyst** in Abu Dhabi building dashboards, aut
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
 </div>
 
----
-
-### **🧮 Mathematics & CS Fundamentals**
-<div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3062/3062366.png" height="35"/> Statistics  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1508/1508881.png" height="35"/> Linear Algebra  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2345/2345335.png" height="35"/> Algorithms & Data Structures  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/> OOP Concepts
-</div>
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### 🎓 **Master’s in Applied Computer Science**  
-**Wrocław University of Science and Technology (2025–2026)**  
-📌 Thesis: *Privacy-Preserving Synthetic Data Generation for Pattern Classification Tasks*
+### **Master’s in Applied Computer Science**  
+*Wrocław University of Science and Technology (Mar 2025 – Jul 2026)*  
+**Thesis:** Privacy-Preserving Synthetic Data Generation for Pattern Classification Tasks
 
----
-
-### 🎓 **Bachelor’s in Computer Science**  
-**Damietta University (2018–2022)**
+### **Bachelor’s in Computer Science**  
+*Damietta University (2018 – 2022)*
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 ### **Data Analyst — Advanced Pipeline Services LLC**  
-📍 Abu Dhabi, UAE (Mar 2023 – Jul 2024)
+*Mar 2023 – Jul 2024 | Abu Dhabi, UAE*
 
-- Built Power BI dashboards for leadership insights  
-- Automated analysis workflows using Python  
-- Designed secure database systems  
-- Developed multi-camera panorama playback software  
-- Improved operations through analytics  
+- Developed Power BI dashboards to enhance decision-making.  
+- Automated data workflows using Python (Pandas, NumPy).  
+- Managed secure databases with role-based access and expiry alerts.  
+- Combined Python and Power BI to deliver strategic insights.  
+- Built a multi-camera panorama playback program for operations.
 
 ---
 

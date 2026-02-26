@@ -11,20 +11,18 @@ Previously worked as a **Data Analyst**, building Python-based data pipelines, s
 
 ---
 
-##### Languages I use
+##### Tech
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-000000?style=flat&logo=Scikit-learn)
-
-##### Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat&logo=scikitlearn)
+
+##### Interests
+
+
 <br/>
 
 ---

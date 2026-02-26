@@ -15,6 +15,7 @@ Previously worked as a **Data Analyst**, building Python-based data pipelines, s
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with

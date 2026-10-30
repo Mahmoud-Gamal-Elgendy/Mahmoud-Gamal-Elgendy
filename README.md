@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Data Scientist | Generative AI & Privacy Researcher
+## I'm a ML Engineer | PhD Researcher
 
-Master Candidate in Applied Computer Science at Wrocław University of Science and Technology.
-I specialize in **Privacy-Preserving Synthetic Data** and **Generative AI**, developing differentially private tabular data synthesis methods that balance privacy guarantees with downstream model utility.
-Previously worked as a **Data Analyst**, building Python-based data pipelines, secure SQL systems, and ML-driven analytics solutions.
+PhD candidate at Wrocław University of Science and Technology, combining a machine learning engineering mindset with academic research.
+I work on developing, implementing, and evaluating machine learning models, with experience in data science, generative models, and privacy-preserving machine learning.
+My research interests include synthetic data generation, differential privacy, model memorization, and machine unlearning.
 
 
 ---
